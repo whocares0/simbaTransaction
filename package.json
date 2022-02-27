@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "dev": "ts-node maker run-dev",
-    "start": "npm install && npm run tsc && node ./build/maker run-start",
+    "start": "npm install && npm run tsc && node --max-old-space-size=4096 ./build/maker run-start",
     "tsc": "tsc -b",
     "build": "ts-node maker run-build"
   },
