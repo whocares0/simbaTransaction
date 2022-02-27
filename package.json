@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "dev": "npm install && ts-node maker run-dev",
-    "start": "npm install && npx tsc -b && node ./build/maker run-start",
+    "start": "npm install && npm install typescript && tsc -b && node ./build/maker run-start",
     "build": "ts-node maker run-build"
   },
   "keywords": [
