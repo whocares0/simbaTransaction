@@ -30,7 +30,7 @@
     "expresswebjs-preset-ts": "^1.0.4",
     "jsonwebtoken": "^8.5.1",
     "knex": "^1.0.3",
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.1",
     "maker-console-ts": "^1.0.57",
     "module-alias": "^2.2.2",
     "pg": "^8.7.3",
