@@ -26,7 +26,7 @@
     "aws-sdk": "^2.933.0",
     "bcryptjs": "^2.4.3",
     "expressweb-scheduler-ts": "^1.0.4",
-    "expresswebcorets": "1.1.35",
+    "expresswebcorets": "2.0.0",
     "expresswebjs-preset-ts": "^1.0.4",
     "jsonwebtoken": "^8.5.1",
     "knex": "^1.0.3",
