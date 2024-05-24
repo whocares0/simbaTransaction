@@ -33,7 +33,7 @@
     "log4js": "^6.3.0",
     "maker-console-ts": "^1.0.57",
     "module-alias": "^2.2.2",
-    "pg": "^8.7.3",
+    "pg": "^8.11.5",
     "ts-node": "^9.1.1",
     "pg-hstore": "^2.3.4",
     "recursive-copy": "^2.0.13",
